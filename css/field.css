@@ -1,0 +1,79 @@
+/***** TITLE *****/
+
+#game-title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+/***** STATUS *****/
+
+#game-status {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+.field {
+    display: none;
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    border: 2px solid white;
+    line-height: 0px;
+}
+
+#game-points-pane {
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: calc(100% + 2px);
+    width: 75px;
+    height: 100px;
+    background-color: #00695C;
+    border: 2px solid #009688;
+    color: #B2DFDB;
+    padding: 5px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+}
+
+#game-points-sign {
+    display: inline-block;
+    color: #FFC107;
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+#game-lives-icon {
+    color: #F44336;
+    font-size: 16px;
+}
+
+#game-points-num {
+    display: inline-block;
+    vertical-align: text-bottom;
+    color: white;
+    font-size: 18px;
+}
+
+#paddle {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    bottom: 10px;
+    left: 200px;
+}
+
+#ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: white;
+    bottom: 30px;
+    left: 240px;
+}

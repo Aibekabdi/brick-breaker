@@ -1,0 +1,15 @@
+.brick {
+    position: relative;
+    background: white;
+    height: 16px;
+    width: 100px;
+    border-radius: 3px;
+    border: 1px solid black;
+  }
+.row {
+    display: flex;
+    width: 100%;
+}
+.hidden {
+    visibility: hidden;
+  }
