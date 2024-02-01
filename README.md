@@ -1,7 +1,7 @@
 # Make-your-game
 The game is almost identical to Brick Breaker (or Arkanoid)
 The hole logic of game was made un pure js code.
-
+ 
 ## How to open the game?
 Just open the "index.html" file by using browser.
 
