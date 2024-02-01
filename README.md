@@ -9,3 +9,4 @@ Just open the "index.html" file by using browser.
 To start the game you can press the "enter" or click the Pause btn.
 To move the paddle you can press "A/D" or "Left/Right arrow"
 
+![brick-breaker](mdContent/gamegif.gif)
