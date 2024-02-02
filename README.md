@@ -1,12 +1,16 @@
-# Make-your-game
-The game is almost identical to Brick Breaker (or Arkanoid)
-The hole logic of game was made un pure js code.
- 
-## How to open the game?
-Just open the "index.html" file by using browser.
+# Make-your-game (Arkanoid)
+## Игра из прошлого, интегрированная в настоящее
 
-## How to play the game?
-To start the game you can press the "enter" or click the Pause btn.
-To move the paddle you can press "A/D" or "Left/Right arrow"
+### Описание
+> Arkanoid — видеоигра для игровых автоматов, разработанная компанией Taito в 1986 году. Игра основана на играх серии Breakout фирмы Atari. Именно её название стало нарицательным для класса подобных игр.
 
-![brick-breaker](mdContent/gamegif.gif)
+![arkanoid](mdContent/arkanoid.png)
+
+> Игрок контролирует небольшую платформу-ракетку, которую можно передвигать горизонтально от одной стенки до другой, подставляя её под шарик, предотвращая его падение вниз. Удар шарика по кирпичу приводит к разрушению кирпича. После того как все кирпичи на данном уровне уничтожены, происходит переход на следующий уровень, с новым набором кирпичей.
+
+
+![arkanoid](mdContent/gamegif.gif)
+
+Игрок контролирует небольшую платформу-ракетку, которую можно передвигать горизонтально от одной стенки до другой, подставляя её под шарик, предотвращая его падение вниз. Удар шарика по кирпичу приводит к разрушению кирпича. После того как все кирпичи на данном уровне уничтожены, происходит переход на следующий уровень, с новым набором кирпичей.
+
+![hard](mdContent/hard.png)
